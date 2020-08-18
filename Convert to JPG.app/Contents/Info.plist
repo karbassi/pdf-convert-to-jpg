@@ -7,7 +7,7 @@
 	<key>AMStayOpen</key>
 	<false/>
 	<key>BuildMachineOSBuild</key>
-	<string>18A391024</string>
+	<string>18A391012</string>
 	<key>CFBundleAllowMixedLocalizations</key>
 	<true/>
 	<key>CFBundleDevelopmentRegion</key>
@@ -34,11 +34,11 @@
 	<key>CFBundleIconFile</key>
 	<string>AutomatorApplet</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.apple.automator.Convert-to-JPG</string>
+	<string>com.apple.automator.Convert-to-JPEGs</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>Convert to JPG</string>
+	<string>Convert to JPEGs</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
@@ -62,7 +62,7 @@
 	<key>DTPlatformVersion</key>
 	<string>10.15.6</string>
 	<key>DTSDKBuild</key>
-	<string>19G70</string>
+	<string>19G49</string>
 	<key>DTSDKName</key>
 	<string>macosx10.15internal</string>
 	<key>DTXcode</key>
